@@ -1,2 +1,2 @@
 # Projects
-Folder containing all the Projects that i have worked on
+Here you can see my current Projects that i have worked on and start to work on
