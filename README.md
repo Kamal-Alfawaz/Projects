@@ -1,2 +1,2 @@
 # Projects
-Here you can see my current Projects that i have worked on and start to work on
+Here you can see my Projects that i have worked on and are currently working on.
