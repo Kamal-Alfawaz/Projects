@@ -1,3 +1,3 @@
 <?php
-header('location:FirstMainPage.html');
+header('location:index.html');
 ?>
